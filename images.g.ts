@@ -126,6 +126,25 @@ ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 `;
+            case "image2":
+            case "jeruk":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . 2 2 4 4 4 4 . . . 
+. . . . . . 2 2 4 4 4 4 4 4 . . 
+. . . . . 2 2 4 4 4 4 4 4 4 4 . 
+. . . . 2 2 4 4 4 4 4 4 4 4 4 . 
+. . . . 2 4 4 4 4 4 4 4 4 4 4 . 
+. . . . 2 4 4 4 4 4 4 4 4 4 4 . 
+. . . . 2 2 4 4 4 4 4 4 4 4 4 . 
+. . . . . 2 2 4 4 4 4 4 4 4 . . 
+. . . . . . . 2 2 4 4 4 4 . . . 
+. . . . . . . . 2 4 4 4 . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`;
         }
         return null;
     })
